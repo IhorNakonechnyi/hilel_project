@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "Git remotr!" << '\n';
+	std::cout << "Git remote!" << '\n';
+	std::cout << "Some changes" << '\n';
 	return 0;
 }
